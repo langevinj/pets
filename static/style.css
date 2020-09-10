@@ -1,0 +1,17 @@
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.available {
+    font-weight: bold;
+}
+
+.pet_listing {
+    display: inline-block;
+    margin: 20px;
+    border: 2px solid gray;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: lightgray;
+}
